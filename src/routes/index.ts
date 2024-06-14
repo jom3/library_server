@@ -1,0 +1,14 @@
+export { AuthRoutes } from "./auth.routes";
+export { TransactionRoutes } from "./transaction.routes";
+export { ReviewRoutes } from "./review.routes";
+export { ReservationRoutes } from "./reservation.routes";
+export { FineRoutes } from "./fine.routes";
+export { OrderRoutes } from "./order.routes";
+export { LoanRoutes } from "./loan.routes";
+export { SupplierRoutes } from "./supplier.routes";
+export { AuthorRoutes } from "./author.routes";
+export { BookRoutes } from "./book.routes";
+export { CategoryRoutes } from "./category.routes";
+export { UserRoutes } from "./user.routes";
+export { EventRoutes } from "./event.routes";
+export { RoleRoutes } from "./role.routes";
